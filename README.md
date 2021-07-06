@@ -25,14 +25,13 @@ A aplicação Sonorum é um projeto android que teve como objetivo aplicar conhe
 
 <h3>TELAS DO PROJETO</h3>
 
-<h5>Tela de SplashScreen</h5>
-
 <h5>Banner da PlayStore</h5>
 
 ![image](https://user-images.githubusercontent.com/30990442/124629033-68667c00-de57-11eb-9612-f74551dc38e8.png)
 
-<h5>Botões Personalizados</h5>
+<h5>Tela de SplashScreen / Botões Personalizados</h5>
 
+![image](https://user-images.githubusercontent.com/30990442/124631839-24c14180-de5a-11eb-90b4-e90a1c395cd3.png)
 
 
 <h3>AGRADEÇO A ATENÇÃO DE TODOS!</h3>
