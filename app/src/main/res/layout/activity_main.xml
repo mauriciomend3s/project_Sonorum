@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/actcolor"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    tools:ignore="contentDescription">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/actcolor"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="20dp">
+
+            <ImageView
+                android:id="@+id/animationSonorum"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:scaleType="fitEnd" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/actcolor"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="20dp">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="112dp"
+                android:layout_height="112dp"
+                android:layout_marginRight="20dp"
+                android:onClick="clicaChuva"
+                app:srcCompat="@drawable/chuva" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="112dp"
+                android:layout_height="112dp"
+                android:layout_marginLeft="20dp"
+                android:onClick="clicaUivo"
+                app:srcCompat="@drawable/uivo" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="20dp">
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="112dp"
+                android:layout_height="112dp"
+                android:layout_marginRight="20dp"
+                android:onClick="clicaGoku"
+                app:srcCompat="@drawable/goku" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="112dp"
+                android:layout_height="112dp"
+                android:layout_marginLeft="20dp"
+                android:onClick="clicaSabre"
+                app:srcCompat="@drawable/sabre" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="20dp">
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="112dp"
+                android:layout_height="112dp"
+                android:layout_marginRight="20dp"
+                android:onClick="clicaPalmas"
+                app:srcCompat="@drawable/palmas" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="112dp"
+                android:layout_height="112dp"
+                android:layout_marginLeft="20dp"
+                android:onClick="clicaExterminador"
+                app:srcCompat="@drawable/exterminador" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="20dp">
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="112dp"
+                android:layout_height="112dp"
+                android:layout_marginRight="20dp"
+                android:onClick="clicaRisadinha"
+                app:srcCompat="@drawable/risadinha" />
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="112dp"
+                android:layout_height="112dp"
+                android:layout_marginLeft="20dp"
+                android:onClick="clicaGalo"
+                app:srcCompat="@drawable/galo" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="20dp">
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="112dp"
+                android:layout_height="112dp"
+                android:layout_marginRight="20dp"
+                android:onClick="clicaIronMan"
+                app:srcCompat="@drawable/ironman" />
+
+            <ImageView
+                android:id="@+id/imageView11"
+                android:layout_width="112dp"
+                android:layout_height="112dp"
+                android:layout_marginLeft="20dp"
+                android:onClick="clicaXaropinho"
+                app:srcCompat="@drawable/xaropinho" />
+        </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+
+        <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-1214630629955891/6639431240">
+
+        </com.google.android.gms.ads.AdView>
+
+    </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
+
