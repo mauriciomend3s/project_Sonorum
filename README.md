@@ -3,16 +3,16 @@ Aplicativo de sons da natureza, objetos e cultura pop.
 
 <h1>Sonorum</h1>
 
-<h3>O QUE É</h3>
+<h3>💡O QUE É</h3>
 
 O Projeto Sonorum é um aplicativo de audios curtos onde o usuário pressiona um botão e dispara um audio referente a ilustração do próprio. 
 
-<h3>OBJETIVO</h3>
+<h3>💻OBJETIVO</h3>
 
 A aplicação Sonorum é um projeto android que teve como objetivo aplicar conhecimentos de desenvolvimento android em um aplicativo simples que trouxesse os conceitos de imageview, audio tostview, splasscreen, progressbar e entre outros. 
 
 
-<h3>TECNOLOGIAS UTILIZADAS</h3>
+<h3>🛠TECNOLOGIAS UTILIZADAS</h3>
 
 <ul>
   <li>JAVA Android;</li>
@@ -23,7 +23,7 @@ A aplicação Sonorum é um projeto android que teve como objetivo aplicar conhe
   
 </ul>
 
-<h3>TELAS DO PROJETO</h3>
+<h3>🎨TELAS DO PROJETO</h3>
 
 <h5>Banner da PlayStore</h5>
 
@@ -38,6 +38,3 @@ A aplicação Sonorum é um projeto android que teve como objetivo aplicar conhe
 <h5><i>Quando a PlayStore disponibilizar o app para download, postarei aqui o link. Até a próxima!!</i><h5>
 
 <h5><i>Maurício Mendes</i><h5>
-
-
-
