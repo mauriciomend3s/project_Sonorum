@@ -17,7 +17,6 @@ A aplicação Sonorum é um projeto android que teve como objetivo aplicar conhe
 <ul>
   <li>JAVA Android;</li>
   <li>Android Studio;</li>
-  <li>JAVA Android;</li>
   <li>Photoshop;</li>
   <li>Illustrator.</li>
   
