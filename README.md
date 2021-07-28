@@ -34,7 +34,7 @@ A aplicação Sonorum é um projeto android que teve como objetivo aplicar conhe
 
 
 <h3>AGRADEÇO A ATENÇÃO DE TODOS!</h3>
-<h5><i>Quando a PlayStore disponibilizar o app para download, postarei aqui o link. Até a próxima!!</i><h5>
+<h5><i>Link do app: https://play.google.com/store/apps/details?id=com.mm.sonorum</i><h5>
 
 <h5><i>Maurício Mendes</i><h5>
   
